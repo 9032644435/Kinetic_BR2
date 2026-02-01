@@ -1,0 +1,7 @@
+{
+  "name": "Laziness Aura: Inertia Edition",
+  "description": "A Minimalist Brutalist hand-tracking experience that monitors peak inertia and spawns sarcastic quotes about laziness.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
